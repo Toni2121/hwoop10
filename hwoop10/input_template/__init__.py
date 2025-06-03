@@ -1,0 +1,2 @@
+class InputTemplate:
+    pass
